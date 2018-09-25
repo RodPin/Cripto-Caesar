@@ -1,0 +1,11 @@
+Na cifra de cesar as mensagens sao encriptadas através da escolha de uma chave,
+que faz com que cada letra da frase seja substituida pela letra que esta seguinte a ela pela distancia
+dessa chave.
+Por exemplo:
+Com a chave 1, todas as letras A viram B,todas as B viram C e assim por diante.
+Com a chave 2 o A vira C , B vira D e assim por diante.
+Para decriptar basta fazer o inverso: a letra é substituida pela letra anterior pela distancia da chave
+chave:1
+B vira A 
+D vira C 
+E vira D

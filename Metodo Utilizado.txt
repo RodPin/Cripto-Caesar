@@ -1,0 +1,7 @@
+﻿Utilizei o segundo metodo
+Primeiro voce deve contar cada letra da frase e fazer a porcentagem do aparecimento dela.
+Depois pegamos a letra que mais se repete e vemos a distancia ate a letra A pois a letra A é a letra mais frequente no alfabeto portugues
+Essa distancia é nossa chave
+Depois basta substituir cada letra usando a chave encontrada anteriormente
+
+(esta melhor explicado no codigo)
